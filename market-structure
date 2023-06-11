@@ -1,0 +1,13 @@
+=> Position trader
+    monthly-weekly-daily
+
+=> Swing trader
+    daily-4h-1h
+
+=> Short term trader
+    4h-1h-1hm
+
+=> Day & scalper
+    1h-15m-5m
+
+    
