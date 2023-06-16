@@ -2,5 +2,3 @@
     end 5am
 
 => fake breakout created in small timeframe, against the actual logn term trand
-
-=> 
