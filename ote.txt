@@ -1,8 +1,0 @@
-=> buy
-
-    62 / 70.5 ote
-    -.62 1 target
-    -.27 2 target
-
-=> sell 
-    opposite of buy

@@ -1,3 +1,0 @@
-=> key time to monitor 10am to noon ny timezone
-
-=>  

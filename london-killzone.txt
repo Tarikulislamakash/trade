@@ -1,7 +1,0 @@
-=> eur/usd gbp pairs are most active in this time.
-
-=> key time to monitor 2am - 5am ny time
-
-=> london open has the highest probability to create high or low of the day
-
-=> london session can extends beyond 5am - 7am ny timezone
