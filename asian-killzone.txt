@@ -1,3 +1,0 @@
-=> aud, nzd, jpy are ideal for this timezone
-
-=> cross like aud/jpy, gbp/aud are more active in that time. Because these pairs are not manipulated by usd.
